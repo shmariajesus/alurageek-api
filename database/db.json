@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Amiibo Zelda",
+      "price": "24.990",
+      "image": "https://www.weplay.cl/pub/media/catalog/product/cache/3f1b140c3c9f36fbf6b01dffb521c246/0/4/045496894016-01.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Amiibo Link",
+      "price": "23.990",
+      "image": "https://www.mathogames.cl/5565-medium_default/amiibo-link-zelda-tears-of-the-kingdom-nintendo.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Zelda Collector Edition",
+      "price": "179.990",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_637761-MLU74057095256_012024-O.webp"
+    },
+    {
+      "id": "4",
+      "name": "Link Collector Edition",
+      "price": "179.990",
+      "image": "https://www.distritomax.com/cdn/shop/products/1_78be13f7-9ac2-4649-afb4-3e8f886c0979_444x417.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Urbosa Collector Edition",
+      "price": "179.990",
+      "image": "https://cdn.idealo.com/folder/Product/203360/7/203360732/s11_produktbild_gross/first4figures-the-legend-of-zelda-breath-of-the-wild-urbosa-pvc-excl.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Revali Collector Edition",
+      "price": "179.990",
+      "image": "https://cdn.idealo.com/folder/Product/202100/8/202100838/s11_produktbild_gross/first4figures-legend-of-zelda-breath-of-the-wild-revali-edicion-para-coleccionistas.jpg"
+    }
+  ]
+}

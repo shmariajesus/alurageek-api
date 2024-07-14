@@ -1,0 +1,25 @@
+{
+  "name": "alurageek-api",
+  "version": "1.0.0",
+  "description": "FakeAPI para proyecto de AluraGeek",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmariajesus/alurageek-api.git"
+  },
+  "author": "Maria Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shmariajesus/alurageek-api/issues"
+  },
+  "homepage": "https://github.com/shmariajesus/alurageek-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
